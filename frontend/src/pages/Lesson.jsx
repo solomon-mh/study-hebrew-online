@@ -10,15 +10,15 @@ function Lesson() {
 	const [lesson, setLesson] = useState(null);
 	useEffect(() => {
 		axios
-			.get("http://localhost:5000/api/lesson")
+			.get("http://54.242.90.146:5000/api/lesson")
 			.then((response) => {
-				console.log("API response:", response);  // Check this log for errors
+				console.log("API response:", response); // Check this log for errors
 				setLesson(response.data);
 			})
 			.catch((error) => console.error(error));
 	}, []);
-    console.log(lesson);
-	
+	console.log(lesson);
+
 	if (!lesson) {
 		return <p>טוען שיעור...</p>;
 	}

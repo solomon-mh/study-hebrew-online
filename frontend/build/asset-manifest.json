@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3ab2aab8.css",
-    "main.js": "/static/js/main.8bbedc9b.js",
+    "main.js": "/static/js/main.c8a1bb67.js",
     "static/media/logo.png": "/static/media/logo.3da9286ba4256de487d1.png",
     "static/media/avatar-ali.png": "/static/media/avatar-ali.88f9155cb730934f4d7c.png",
     "static/media/avatar-anisha.png": "/static/media/avatar-anisha.484e15bc92ce6a0106ab.png",
@@ -17,10 +17,10 @@
     "static/media/bg-simplify-section-mobile.svg": "/static/media/bg-simplify-section-mobile.a79c8471fa284189552d.svg",
     "static/media/bg-tablet-pattern.svg": "/static/media/bg-tablet-pattern.b6990a984c7bcc142d3e.svg",
     "main.3ab2aab8.css.map": "/static/css/main.3ab2aab8.css.map",
-    "main.8bbedc9b.js.map": "/static/js/main.8bbedc9b.js.map"
+    "main.c8a1bb67.js.map": "/static/js/main.c8a1bb67.js.map"
   },
   "entrypoints": [
     "static/css/main.3ab2aab8.css",
-    "static/js/main.8bbedc9b.js"
+    "static/js/main.c8a1bb67.js"
   ]
 }
